@@ -1,4 +1,4 @@
-import RoiCalculator from "./RoiCalculator.html";
+import RoiCalculator from "./index.html";
 
 const app = new RoiCalculator({
   target: document.getElementById("roi-calculator"),
